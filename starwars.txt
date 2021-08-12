@@ -8,3 +8,6 @@ Hunter
 Wrecker
 Crosshair
 Omega
+Iron Man
+Darth Vader
+Captain America
